@@ -2,11 +2,11 @@
 
 # Suraj Kumar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;React.js+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+MySQL;Open+to+full-time+roles)](https://suraj-portfolio-wjpt.onrender.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;QA+%26+Manual+Testing;React.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PHP;Immediate+joiner+%C2%B7+Mohali+%26+PAN+India)](https://suraj-portfolio-wjpt.onrender.com)
 
-**Full-Stack Developer** — I build and ship web applications end to end.
+**Full-Stack Developer · QA & Manual Testing** — I build web applications end to end, then test what I ship.
 
-📍 Ludhiana, Punjab, India (IST) &nbsp;·&nbsp; 🎓 M.E. CSE @ Chandigarh University &nbsp;·&nbsp; 💼 **Open to work**
+📍 **Mohali, Punjab, India** (IST) &nbsp;·&nbsp; 🎓 M.E. CSE @ Chandigarh University &nbsp;·&nbsp; 💼 **Open to work — immediate joiner**
 
 [![Portfolio](https://img.shields.io/badge/portfolio-live%20site-6366f1?logo=googlechrome&logoColor=white)](https://suraj-portfolio-wjpt.onrender.com)
 [![Résumé](https://img.shields.io/badge/résumé-PDF-22d3ee)](https://suraj-portfolio-wjpt.onrender.com/resume)
@@ -17,11 +17,24 @@
 
 ---
 
+### ⚡ Quick facts
+
+| | |
+|---|---|
+| **Open to** | Full-Stack Developer · Frontend Developer (React.js) · QA / Manual Testing |
+| **Availability** | Immediate joiner — no notice period, ready to start right away |
+| **Location** | Mohali, Punjab — open to on-site, hybrid or remote roles anywhere in India |
+| **Experience** | Fresher + internship at **HAL** (MCSRDC, Design Complex), Bengaluru — Aug–Sep 2023 |
+| **Education** | M.E. CSE, Chandigarh University (2025–2027) · B.E. CSE, VTU · CGPA 8.7/10 |
+| **Contact** | csesuraj2003@gmail.com · +91-7795253485 · replies within 24 hours |
+
+---
+
 I build responsive, well-tested web applications end to end — database design, APIs and the
 interface — and I care about the parts most people skip: validation, functional testing and
 documentation that still makes sense six months later.
 
-> **Looking for a full-stack / front-end / back-end role.** I reply within 24 hours.
+> **Looking for a full-stack, front-end or QA role — and I reply within 24 hours.**
 
 ---
 
@@ -30,9 +43,10 @@ documentation that still makes sense six months later.
 | Project | What it is | Stack | Links |
 |---------|-----------|-------|-------|
 | **Portfolio & Resume Platform** | This portfolio — React + TypeScript front end over an Express REST API, with a private content dashboard and a generated résumé | React · TypeScript · Express | [Live](https://suraj-portfolio-wjpt.onrender.com) · [Code](https://github.com/Suraj-Kumar-Ray/portfolio) |
+| **School Management Portal** | Full-stack portal for students, staff and attendance — role-based access, CRUD workflows and a MySQL schema I designed | PHP · MySQL · Bootstrap | [Live demo](https://school-portal-demo-cgjm.onrender.com) · [Code](https://github.com/Suraj-Kumar-Ray/school-portal) |
 | **Skin Lesion Classification** | M.E. dissertation — class-balanced multi-modal CNN for melanoma detection with test-time augmentation | Python · PyTorch | [Code](https://github.com/Suraj-Kumar-Ray/skin-lesion-classification) · [Case study](https://suraj-portfolio-wjpt.onrender.com/work/skin-lesion) |
-| **LeetCode Solutions** | 400+ data-structures & algorithms problems, organised by topic | Java · Python | [Code](https://github.com/Suraj-Kumar-Ray/LeetCode) |
 | **Teachers Management System** | Full-stack CRUD portal for staff and student records, with end-to-end functional and database testing | PHP · MySQL · Bootstrap | [Case study](https://suraj-portfolio-wjpt.onrender.com/work/teachers-management) |
+| **DSA practice — Java** | Data-structures & algorithms solutions committed as I solve them, organised by problem | Java | [Code](https://github.com/Suraj-Kumar-Ray/LeetCode) |
 
 Every project also has a written case study — the problem, the build and the result:
 **[suraj-portfolio-wjpt.onrender.com](https://suraj-portfolio-wjpt.onrender.com)**
@@ -46,6 +60,7 @@ Every project also has a written case study — the problem, the build and the r
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -54,6 +69,7 @@ Every project also has a written case study — the problem, the build and the r
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
 ### 📊 GitHub at a glance
@@ -69,15 +85,16 @@ Every project also has a written case study — the problem, the build and the r
 
 ### 💡 What I'm doing now
 
-- 🎓 Finishing my **M.E. in CSE** — dissertation on applied machine learning for medical image analysis
-- 🧩 Practising **data structures & algorithms** daily — [400+ problems solved](https://github.com/Suraj-Kumar-Ray/LeetCode)
+- 🎓 Finishing my **M.E. in CSE** (expected 2027) — dissertation on applied machine learning for medical image analysis
+- 🧩 Practising **data structures & algorithms** in Java — solutions committed as I go
 - 🛠️ Building and shipping full-stack side projects (React + TypeScript + Express)
-- 💼 **Open to full-time roles** — full-stack, front-end or back-end — and freelance work
+- 🧪 Sharpening **QA skills** — functional testing, test cases and bug reporting
+- 💼 **Open to full-time roles** — full-stack, front-end or QA — and freelance work
 
 ### 🎓 Background
 
-- **Software Engineering Intern · Hindustan Aeronautics Limited (HAL)**, 2024 — navigation-system software, functional testing and technical documentation
-- **M.E. CSE · Chandigarh University** (2025 – present)
+- **Software Engineering Intern · Hindustan Aeronautics Limited (HAL)**, Aug–Sep 2023 — MCSRDC, Design Complex, Bengaluru: navigation-system software, functional testing and technical documentation
+- **M.E. CSE · Chandigarh University** (2025 – present, expected 2027)
 - **B.E. CSE · Sambhram Institute of Technology, VTU** (2020 – 2024) · CGPA 8.7/10
 - English (proficient) · Hindi (native)
 
