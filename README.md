@@ -26,6 +26,7 @@
 | **Location** | Mohali, Punjab — open to on-site, hybrid or remote roles anywhere in India |
 | **Experience** | Fresher + internship at **HAL** (MCSRDC, Design Complex), Bengaluru — Aug–Sep 2023 |
 | **Education** | M.E. CSE, Chandigarh University (2025–2027) · B.E. CSE, VTU · CGPA 8.7/10 |
+| **Certification** | **Oracle Cloud Infrastructure Certified Architect Associate** (Oracle, Oct 2026) — [verify certificate](https://suraj-portfolio-wjpt.onrender.com/api/certificate/oci) |
 | **Contact** | csesuraj2003@gmail.com · +91-7795253485 · replies within 24 hours |
 
 ---
@@ -93,6 +94,7 @@ Every project also has a written case study — the problem, the build and the r
 
 ### 🎓 Background
 
+- **Oracle Cloud Infrastructure Certified Architect Associate** · Oracle, Oct 2026 (valid to Oct 2028) — credential `332268769OCI26CAA` · [download the eCertificate](https://suraj-portfolio-wjpt.onrender.com/api/certificate/oci)
 - **Software Engineering Intern · Hindustan Aeronautics Limited (HAL)**, Aug–Sep 2023 — MCSRDC, Design Complex, Bengaluru: navigation-system software, functional testing and technical documentation
 - **M.E. CSE · Chandigarh University** (2025 – present, expected 2027)
 - **B.E. CSE · Sambhram Institute of Technology, VTU** (2020 – 2024) · CGPA 8.7/10
