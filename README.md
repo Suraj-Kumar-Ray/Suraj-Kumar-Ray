@@ -45,12 +45,18 @@ documentation that still makes sense six months later.
 |---------|-----------|-------|-------|
 | **Portfolio & Resume Platform** | This portfolio — React + TypeScript front end over an Express REST API, with a private content dashboard and a generated résumé | React · TypeScript · Express | [Live](https://suraj-portfolio-wjpt.onrender.com) · [Code](https://github.com/Suraj-Kumar-Ray/portfolio) |
 | **School Management Portal** | Full-stack portal for students, staff and attendance — role-based access, CRUD workflows and a MySQL schema I designed | PHP · MySQL · Bootstrap | [Live demo](https://school-portal-demo-cgjm.onrender.com) · [Code](https://github.com/Suraj-Kumar-Ray/school-portal) |
+| **QA test pass — AbleSpace** | Manual + automated pass on a staging web app: 10 scenarios, 8 executed cases, **5 documented defects** with evidence, a cross-browser matrix and a runnable Playwright suite that reproduces a High-severity session-persistence bug | Playwright · Manual testing · Bug reporting | [Code](https://github.com/Suraj-Kumar-Ray/ablespace-qa-assignment) |
 | **Skin Lesion Classification** | M.E. dissertation — class-balanced multi-modal CNN for melanoma detection with test-time augmentation | Python · PyTorch | [Code](https://github.com/Suraj-Kumar-Ray/skin-lesion-classification) · [Case study](https://suraj-portfolio-wjpt.onrender.com/work/skin-lesion) |
 | **Teachers Management System** | Full-stack CRUD portal for staff and student records, with end-to-end functional and database testing | PHP · MySQL · Bootstrap | [Case study](https://suraj-portfolio-wjpt.onrender.com/work/teachers-management) |
 | **DSA practice — Java** | Data-structures & algorithms solutions committed as I solve them, organised by problem | Java | [Code](https://github.com/Suraj-Kumar-Ray/LeetCode) |
 
 Every project also has a written case study — the problem, the build and the result:
 **[suraj-portfolio-wjpt.onrender.com](https://suraj-portfolio-wjpt.onrender.com)**
+
+The QA pass is documented the way a real test report should read: every *pass* was executed and observed,
+every *failure* carries the exact steps and the value or URL that proved it, and the areas I could not
+reach (Firefox/WebKit, CAPTCHA-gated authenticated automation, Pro-only screens) are listed as
+**not executed** rather than quietly counted as passes.
 
 ---
 
